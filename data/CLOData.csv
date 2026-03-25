@@ -1,0 +1,27 @@
+loan_id,borrower,principal,interest_rate,tranche_rating,term_months,tranche_id,equity_percent
+1,Company A,120000,0.05,AAA,60,Class A,28
+2,Company B,250000,0.06,AA ,48,Class B,15
+3,Company C,130000,0.07,A,72,Class C,12
+4,Company D,150000,0.075,BBB,36,Class D,8
+5,Company E,340000,0.04,BB ,40,Class E,5
+6,Company F,230000,0.02,B,32,Class F,2
+7,Company G,215000,0.087,Unrated,24,Equity,0
+8,Company H,175000,0.045,AAA,52,Class A,25
+9,Company I,145000,0.034,AA,58,Class B,17
+10,Company J,100050,0.021,A ,76,Class C,14
+11,Company K,315000,0.09,BBB,50,Class D,7
+12,Company L,143000,0.1,BB,42,Class E,5
+13,Company M,124000,0.098,B,48,Class F,3
+14,Company N,186000,0.056,B,38,Class F,3
+15,Company O,275000,0.064,BB,40,Class E,5
+16,Company P,290000,0.034,AA,74,Class B,16
+17,Company Q,385000,0.026,A,28,Class C,11
+18,Company R,134500,0.07,BBB,26,Class D,8
+19,Company S,120500,0.08,Unrated,30,Equity,0
+20,Company T,240300,0.012,Unrated,34,Equity,0
+21,Company U,165400,0.065,Unrated,32,Equity,0
+22,Company V,120000,0.061,AAA,48,Class A,30
+23,Company W,143200,0.07,AA,46,Class B,18
+24,Company X,220000,0.072,A,56,Class C,14
+25,Company Y,210000,0.092,BBB,52,Class D,8
+26,Company Z,430000,0.068,Unrated,54,Equity,0
